@@ -98,6 +98,8 @@ O projeto foi desenvolvido com foco na automação de processos operacionais e r
 **Tecnologias:**  
 Google Apps Script · JavaScript · HTML · CSS · Google Sheets
 
+🔗 [Ver projeto no GitHub](https://github.com/gabrielnasc17/controle-tid-caixa)
+
 ---
 
 ## 📈 Análise Operacional com SQL
